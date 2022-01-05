@@ -1,0 +1,9 @@
+In this chapter, we will learn about the basics of topic modeling using a
+document that contains some text. The idea here is to get the topic from the text
+using certain available methods. This process falls under the category of text
+mining, and plays an important role in searching as well as clustering and
+organizing text. Today, it is used by many sites for recommendation purposes,
+such as when news sites recommend articles based on the topic of the article that
+is currently being read by the reader. This chapter covers the basics of topic
+modeling, including the basic concept of Latent Dirichlet Allocation (LDA). It
+will also show you how to use the MALLET package for topic modeling.
